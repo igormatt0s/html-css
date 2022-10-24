@@ -1,3 +1,2 @@
-# Análise de algoritmos
- Comparações assintóticas de funções: Notação O, Omega, Theta.
- Análise dos seguintes algoritmos: Ordenação por seleção; Ordenação por inserção; Quick sort; Heap sort; Merge sort; Busca linear, busca serial
+# Curso de HTML5 e CSS3
+Material de estudo e exercícios realizados do curso de HTML5 e CSS3.
